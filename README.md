@@ -6,7 +6,7 @@ This repository contains a Dockerfile serverless generator implement with `Pytho
 
 The purpose is to generate a new docker image whenever there are official new releases to **terraform** (automatically), **packer**, **ansible**, or other cloud management tools contained.
 
-Dockerfile's repository can be found [here](https://github.com/ccurcanu/docker-cloud-tools) and is used by a [Docker automated build](https://hub.docker.com/r/ccurcanu/cloud-tools/) constructing an image with handy cloud management tools (i.e. ```terraform, packer, ansible```).  
+Dockerfile's repository can be found [here](https://github.com/oraclecloudmigration/cloud-tools) and is used by a [Docker automated build](https://hub.docker.com/r/oraclecloudmigration/cloud-tools/) constructing an image with handy cloud management tools (i.e. ```terraform, packer, ansible```).  
 
 
 ### Deployment
